@@ -20,8 +20,8 @@
 ### 一键安装
 ```bash
 # 克隆本仓库
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/shinwu/homebrew-config
+cd homebrew-config
 
 # 使用 Homebrew Bundle 安装所有依赖
 brew bundle install
@@ -51,7 +51,6 @@ git push origin main
 
 ### 1. 系统兼容性：
 * 某些工具可能仅支持 macOS（如 cask 软件）。
-* 需确认 Linux 发行版是否支持特定包。
 ### 2. ​权限问题：
 * 安装过程中可能需要输入密码（如 sudo 权限）。
 ### 3. 网络要求：
